@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jareds-portfolio/static/css/main.776fef09.chunk.css",
+    "main.js": "/jareds-portfolio/static/js/main.a3d09c2c.chunk.js",
+    "main.js.map": "/jareds-portfolio/static/js/main.a3d09c2c.chunk.js.map",
+    "runtime-main.js": "/jareds-portfolio/static/js/runtime-main.658366e9.js",
+    "runtime-main.js.map": "/jareds-portfolio/static/js/runtime-main.658366e9.js.map",
+    "static/css/2.4be38407.chunk.css": "/jareds-portfolio/static/css/2.4be38407.chunk.css",
+    "static/js/2.1781c1fc.chunk.js": "/jareds-portfolio/static/js/2.1781c1fc.chunk.js",
+    "static/js/2.1781c1fc.chunk.js.map": "/jareds-portfolio/static/js/2.1781c1fc.chunk.js.map",
+    "static/js/3.6c4878f8.chunk.js": "/jareds-portfolio/static/js/3.6c4878f8.chunk.js",
+    "static/js/3.6c4878f8.chunk.js.map": "/jareds-portfolio/static/js/3.6c4878f8.chunk.js.map",
+    "index.html": "/jareds-portfolio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/jareds-portfolio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.776fef09.chunk.css.map": "/jareds-portfolio/static/css/main.776fef09.chunk.css.map",
+    "static/js/2.1781c1fc.chunk.js.LICENSE.txt": "/jareds-portfolio/static/js/2.1781c1fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.658366e9.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.1781c1fc.chunk.js",
+    "static/css/main.776fef09.chunk.css",
+    "static/js/main.a3d09c2c.chunk.js"
+  ]
+}
