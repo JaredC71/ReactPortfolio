@@ -1,0 +1,23 @@
+form {
+    padding: 200px 50px;
+    height: 100vh;
+    color: white;
+}
+
+.form-group {
+    margin: 0px 0px 15px 0px;
+}
+.form-group label {
+    margin: 5px 0;
+}
+
+#contactSubmit {
+    background-color: white;
+    color: #896DF6;
+}
+@media(min-width: 900px) {
+    form {
+        padding: 200px 300px;
+    }
+
+}

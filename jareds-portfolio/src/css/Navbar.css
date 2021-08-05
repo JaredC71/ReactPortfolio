@@ -1,0 +1,17 @@
+#brand {
+    font-size: 2.5rem;
+    color: #896DF6;
+    margin: 0;
+}
+
+.active {
+    color: #C621E5 !important;
+  
+}
+
+@media(min-width: 1000px) {
+    .navbar-expand-lg {
+        padding: 20px 100px;
+    }
+
+}

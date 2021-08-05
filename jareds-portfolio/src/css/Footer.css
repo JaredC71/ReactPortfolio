@@ -1,0 +1,36 @@
+.bottomNavUl {
+    width: 100%;
+  
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 50px 0px 50px;
+    list-style-type: none;
+    
+}
+#footer {
+    background-color: white;
+ 
+    z-index: 3;
+}
+
+
+.bottomNavUl li a {
+    color: #896DF6;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+.bottomNavUl li {
+    height: 100%;
+}
+
+@media(max-width: 700px) {
+    .bottomNavUl {
+        flex-direction: column;
+        align-items: center;
+    
+        
+    }
+    .bottomNavUl li a {
+        font-size: .9rem;
+    }
+}

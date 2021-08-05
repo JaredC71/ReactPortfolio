@@ -1,0 +1,27 @@
+.container {
+  
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container a {
+    font-size: 3.5rem;
+    color: white;
+    
+
+}
+
+.container a:hover {
+    color: black;
+}
+
+@media(max-width: 760px) {
+    .container a {
+        font-size: 1.5rem;
+   
+        
+    
+    }
+
+}
